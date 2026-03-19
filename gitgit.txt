@@ -1,1 +1,1 @@
-this is my file
+the commit the are message in the a properties
